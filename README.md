@@ -4,7 +4,7 @@
 
 <br>
 
-[sobre](#sobre) · [setup](#setup) · [projetos](#projetos) · [o que eu mexo](#o-que-eu-mexo) · [interesses](#interesses) · [contato](#contato) · [sobre este site](#sobre-este-site)
+[site](https://kohagi.vercel.app/) · [sobre](#sobre) · [setup](#setup) · [hardware](#hardware) · [projetos](#projetos) · [o que eu mexo](#o-que-eu-mexo) · [interesses](#interesses) · [contato](#contato) · [sobre este site](#sobre-este-site)
 
 </div>
 
@@ -30,6 +30,30 @@ também jogo, ouço música, vejo filmes e alguns animes, e gosto de conversar c
 | **init** | dinit |
 | **desktop** | mangowm (wayland) |
 | **dotfiles** | [victoria-mangowm-dotfiles](https://github.com/kohagizpk/victoria-mangowm-dotfiles) |
+
+<br>
+
+## hardware
+
+| máquina |  |
+| :-- | :-- |
+| **gpu** | rx 7600 |
+| **cpu** | intel i5 10400f |
+| **ram** | 16 gb |
+| **ssd** | nvme m.2 de 2 tb |
+
+| periféricos |  |
+| :-- | :-- |
+| **teclado** | ajazz ak820 |
+| **mouse** | attack shark r1 |
+| **fone** | havit fuxi-h3 (headset) |
+
+| software |  |
+| :-- | :-- |
+| **os** | artix linux (dinit) |
+| **dual boot** | windows 10 ltsc |
+| **wm** | mangowm |
+| **dm** | ly |
 
 <br>
 
@@ -82,7 +106,8 @@ esta página pessoal, feita em html, css e js puros, no estilo colagem / recorte
 › persona 5 royal<br>
 › bloons td 6<br>
 › lego marvel super heroes<br>
-› pokémon
+› pokémon<br>
+› [minha steam](https://steamcommunity.com/id/kohagizpk/)
 
 </td>
 <td valign="top" width="33%">
@@ -121,12 +146,14 @@ também ouço death in june, shiny nickel, vanish shawty, gezebelle gaburgably e
 
 |  |  |
 | :-- | :-- |
+| **site** | [kohagi.vercel.app](https://kohagi.vercel.app/) |
 | **github** | [kohagizpk](https://github.com/kohagizpk) |
 | **instagram** | [@juliazpk_](https://www.instagram.com/juliazpk_/) |
 | **youtube** | [@kohagi1](https://www.youtube.com/@Kohagi1) |
 | **x / twitter** | [@kohagizpk](https://x.com/kohagizpk) |
 | **tiktok** | [@kohagizpk](https://www.tiktok.com/@kohagizpk) |
 | **spotify** | [perfil](https://open.spotify.com/user/314umyekoowvxblmzlu5a3jtquoi) |
+| **steam** | [kohagizpk](https://steamcommunity.com/id/kohagizpk/) |
 | **discord** | `kohagi2.0` |
 | **e-mail** | [juliazpk@tutamail.com](mailto:juliazpk@tutamail.com) |
 
@@ -134,7 +161,7 @@ também ouço death in june, shiny nickel, vanish shawty, gezebelle gaburgably e
 
 ## sobre este site
 
-a página pessoal que esse readme espelha, feita à mão, sem framework e sem etapa de build,
+a página pessoal que esse readme espelha, no ar em [kohagi.vercel.app](https://kohagi.vercel.app/), feita à mão, sem framework e sem etapa de build,
 
 **stack**
 ![html5](https://img.shields.io/badge/html5-101010?style=flat-square&logo=html5&logoColor=d77d76&labelColor=843530)
