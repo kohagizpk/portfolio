@@ -1,0 +1,1 @@
+document.getElementById('copy-discord').addEventListener('click',async()=>{const status=document.getElementById('copy-status');try{await navigator.clipboard.writeText('kohagi2.0');status.textContent='discord copiado: kohagi2.0'}catch{status.textContent='selecione e copie: kohagi2.0'}});
