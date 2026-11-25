@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kohagizpk/portfolio/main/art/readme-banner.png" alt="kohagi, página pessoal da julia. linux, música, jogos e o resto, artix com dinit, btw," width="100%">
+<img src="https://raw.githubusercontent.com/kohagizpk/portfolio/main/art/readme-banner.png" alt="kohagi, página pessoal de kohagi. linux, música, jogos e o resto, artix com dinit, btw," width="100%">
 
 <br>
 
@@ -12,7 +12,7 @@
 
 ## sobre
 
-oi, eu sou a **julia**, na internet uso o nick **kohagi**,
+oi, eu sou **kohagi**,
 
 estudo infraestrutura de informática e gosto de linux, hardware e projetos open-source,
 
@@ -148,14 +148,12 @@ também ouço death in june, shiny nickel, vanish shawty, gezebelle gaburgably e
 | :-- | :-- |
 | **site** | [kohagi.vercel.app](https://kohagi.vercel.app/) |
 | **github** | [kohagizpk](https://github.com/kohagizpk) |
-| **instagram** | [@juliazpk_](https://www.instagram.com/juliazpk_/) |
 | **youtube** | [@kohagi1](https://www.youtube.com/@Kohagi1) |
 | **x / twitter** | [@kohagizpk](https://x.com/kohagizpk) |
 | **tiktok** | [@kohagizpk](https://www.tiktok.com/@kohagizpk) |
 | **spotify** | [perfil](https://open.spotify.com/user/314umyekoowvxblmzlu5a3jtquoi) |
 | **steam** | [kohagizpk](https://steamcommunity.com/id/kohagizpk/) |
 | **discord** | `kohagi2.0` |
-| **e-mail** | [juliazpk@tutamail.com](mailto:juliazpk@tutamail.com) |
 
 <br>
 
@@ -224,6 +222,6 @@ as artes e capas usadas na página e neste readme servem só como referência do
 
 <div align="center">
 
-<sub>kohagi / julia · [voltar ao início](#)</sub>
+<sub>kohagi · [voltar ao início](#)</sub>
 
 </div>
